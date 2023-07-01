@@ -1,7 +1,7 @@
 const product = [
     {
         _id: '1',
-        name: 'Airpods Wireless Bluetooth Headphones',
+        name: 'Airpods Wireless Bluetooth',
         image: '/images/airpods.jpg',
         description: 
         'Bluetooth Technologies lets you connect with compatible devices wirelessly High-quality AAC audio offers immersive quality listening for experience Built-in microphone allows you to call while working.',
@@ -10,7 +10,7 @@ const product = [
         price: 100.10,
         countInStock: 3,
         rating: 4.5,
-        numReviews: 1,
+        numReviews: 4,
 
     },
     {
@@ -23,8 +23,8 @@ const product = [
         category: 'Electronics',
         price: 150.10,
         countInStock: 3,
-        rating: 4.5,
-        numReviews: 3,
+        rating: 4.0,
+        numReviews: 4,
 
     },
     {
@@ -43,7 +43,7 @@ const product = [
     },
     {
         _id: '4',
-        name: 'Sony Playstation 4 Pro White Version ',
+        name: 'Playstation 4 Pro White Version ',
         image: '/images/playstation.jpg',
         description: 
         'The ultimate home entertainment center starts with Playstation. Whether you are into gaming, HD movies, television, music. .',

@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import {Container} from 'react-bootstrap';
 import HomeScreen from './screens/HomeScreen';
 
+
 const App = () => {
   return (
     <>
@@ -12,6 +13,8 @@ const App = () => {
     <main className='py-3'>  
       <Container>
         <HomeScreen/>
+        {/* <Rating/> */}
+
       </Container>
     </main>
     <Footer/>
