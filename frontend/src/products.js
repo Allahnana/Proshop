@@ -1,7 +1,7 @@
 const product = [
     {
         _id: '1',
-        name: 'Airpods Wireless Bluetooth',
+        name: 'Airpods Wireless Bluetooth Headphones',
         image: '/images/airpods.jpg',
         description: 
         'Bluetooth Technologies lets you connect with compatible devices wirelessly High-quality AAC audio offers immersive quality listening for experience Built-in microphone allows you to call while working.',
@@ -9,7 +9,7 @@ const product = [
         category: 'electronics',
         price: 100.10,
         countInStock: 3,
-        rating: 4.5,
+        rating: 4.0,
         numReviews: 4,
 
     },
@@ -23,7 +23,7 @@ const product = [
         category: 'Electronics',
         price: 150.10,
         countInStock: 3,
-        rating: 4.0,
+        rating: 3.6,
         numReviews: 4,
 
     },
@@ -51,7 +51,7 @@ const product = [
         category: 'Electronics',
         price: 150.10,
         countInStock: 13,
-        rating: 9.5,
+        rating: 4.2,
         numReviews: 7,
 
     },
@@ -65,7 +65,7 @@ const product = [
         category: 'Electronics',
         price: 250.10,
         countInStock: 2,
-        rating: 4.5,
+        rating: 3.0,
         numReviews: 3,
 
     },
@@ -79,7 +79,7 @@ const product = [
         category: 'Electronics',
         price: 50.10,
         countInStock: 3,
-        rating: 4.5,
+        rating: 2.5,
         numReviews: 1,
 
     },

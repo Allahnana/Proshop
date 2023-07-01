@@ -2,3 +2,16 @@ main{
   height: 110vh;
 
 }
+.card-body a {
+  font-size: larger;
+  text-decoration: none;
+}
+
+h3 {
+  padding: 1re 0;
+}
+
+.rating span {
+  margin: 0.1rem;
+
+}
