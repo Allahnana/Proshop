@@ -13,7 +13,7 @@ const ProductScreen = ({match}) => {
   const product = products.find(product => product._id === match.params.id)
   return (
     <>
-     <Link className='btn btn-dark py-3' to='/' >Go Back </Link>
+     <Link className='btn btn-dark my-3' to='/' >Go Back </Link>
 
      <Row>
       <Col md={6}>
